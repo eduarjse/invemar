@@ -1,0 +1,14 @@
+# invemar
+prueba invemar
+
+Para el desarrollo del sistema se utilizo:
+- El lenguaje de PHP con el framework de codeingniter, se agrego bootstrap para las vistas, 
+la biblioteca de jQuery para las peticiones ajax
+- De base de datos se utilizo mysql
+
+Se crearon 3 ventanas:
+	1. registro y consulta de avistamientos
+	2. especies
+	3. lugares
+
+
